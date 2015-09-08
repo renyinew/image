@@ -1,6 +1,11 @@
 {
     "name": "renyi1986/images",
     "license": "MIT",
+    "description": "PHP image store render cache.",
+    "keywords": ["mongo", "images", "render"],
+    "require": {
+        "php": ">=5.4"
+    },
     "authors": [
         {
             "name": "rENYI",
