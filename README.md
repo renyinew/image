@@ -1,7 +1,7 @@
-# images
-PHP image store render cache
+# image
+PHP ima store render cache
 ## Instalation
-The best way to install renyi1986/images is using  [Composer](http://getcomposer.org/):
+The best way to install renyinew/image is using  [Composer](http://getcomposer.org/):
 
 ## Quick start
 
@@ -10,9 +10,9 @@ The best way to install renyi1986/images is using  [Composer](http://getcomposer
 * install
 
     ```
-    php composer.phar require --dev renyi1986/images
+    php composer.phar require --dev renyinew/image:@dev
     ```
 * update
 
     ```
-    php composer.phar update renyi1986/images
+    php composer.phar update renyinew/image
