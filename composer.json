@@ -1,0 +1,9 @@
+{
+    "name": "renyi1986/images",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/renyi1986/images"
+        }
+    ]
+}
