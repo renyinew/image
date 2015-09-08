@@ -5,5 +5,11 @@
             "type": "vcs",
             "url": "https://github.com/renyi1986/images"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "renyi1986\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
 }
