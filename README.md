@@ -10,7 +10,7 @@ The best way to install renyinew/image is using  [Composer](http://getcomposer.o
 * install
 
     ```
-    php composer.phar require --dev renyinew/image:@dev
+    php composer.phar require renyinew/image:@dev
     ```
 * update
 

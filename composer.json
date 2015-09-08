@@ -1,8 +1,8 @@
 {
-    "name": "renyinew/images",
+    "name": "renyinew/image",
     "license": "MIT",
     "description": "PHP image store render cache.",
-    "keywords": ["mongo", "images", "render"],
+    "keywords": ["mongo", "image", "render"],
     "require": {
         "php": ">=5.4"
     },
