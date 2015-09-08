@@ -1,5 +1,13 @@
 {
     "name": "renyi1986/images",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rENYI",
+            "email": "renyinew@gmail.com",
+            "homepage": "http://www.renyi.tk"
+        }
+        ],
     "repositories": [
         {
             "type": "vcs",
