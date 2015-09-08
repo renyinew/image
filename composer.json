@@ -1,5 +1,5 @@
 {
-    "name": "renyi1986/images",
+    "name": "renyinew/images",
     "license": "MIT",
     "description": "PHP image store render cache.",
     "keywords": ["mongo", "images", "render"],
@@ -16,12 +16,12 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/renyi1986/images"
+            "url": "https://github.com/renyinew/image"
         }
     ],
     "autoload": {
         "psr-4": {
-            "renyi1986\\": "src/"
+            "renyinew\\": "src/"
         }
     },
     "minimum-stability": "dev"
