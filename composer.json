@@ -6,7 +6,8 @@
             "name": "rENYI",
             "email": "renyinew@gmail.com",
             "homepage": "http://www.renyi.tk"
-        },
+        }
+        ]
     "repositories": [
         {
             "type": "vcs",
